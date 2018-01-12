@@ -1,0 +1,11 @@
+CACHE MANIFEST
+#13/03/2016 v1.0
+CACHE:
+icon.png
+GUI.html
+Controller.js
+View.js
+standard.css
+wall.png
+NETWORK:
+*
